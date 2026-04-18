@@ -251,7 +251,6 @@ hs_err_pid*
 
 
 # Logs & runtime files
-*.log
 *.out
 *.err
 *.pid
