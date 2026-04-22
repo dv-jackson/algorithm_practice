@@ -15,3 +15,6 @@
 # 📝 Problem: Given a string s containing only:
 # '(', ')', '{', '}', '[', ']'
 # Return True if the string is valid, otherwise False.
+
+# Day 4
+# 📝 Problem: Reverse a linked list:
